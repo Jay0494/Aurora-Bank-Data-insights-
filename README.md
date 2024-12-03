@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Project_Brief](#PROJECT_BRIEF)
+- [Project_Brief](###PROJECT_BRIEF)
 - [Objectives](#OBJECTIVES)
 - [Project_Plan](#PROJECT_PLAN)
 ___
