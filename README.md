@@ -1,8 +1,8 @@
 ## Table of Contents
 - [Introduction](#Introduction)
-  - [Project_Brief](##PROJECT_BRIEF)
-    - [Objectives](###OBJECTIVES)
-  - [Project_Plan](###PROJECT_PLAN)
+- [Project_Brief](##PROJECT_BRIEF)
+- [Objectives](###OBJECTIVES)
+- [Project_Plan](###PROJECT_PLAN)
 ___
 
 # Introduction
