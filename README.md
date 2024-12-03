@@ -1,22 +1,23 @@
 ## Table of Contents
-- [INTRODUCTION](#Introduction)
+- [Introduction](#Introduction)
   - [Project_Brief](##PROJECT_BRIEF)
     - [Objectives](###OBJECTIVES)
   - [Project_Plan](###PROJECT_PLAN)
-
+___
 
 # Introduction
 This is a data challenge organized by ZoomCharts. As a data analyst at one of the most dynamic financial institutions, I am tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on me to solve pressing challenges and deliver actionable insights.
+___
 
 ## PROJECT_BRIEF
 Welcome to the Aurora Bank Data Challenge! As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.
-
+___
 ### OBJECTIVES
 •	Understand Customer Profiles: Explore customer demographics, financial health, and behaviours to unlock new opportunities for engagement.
 •	Analyse Spending Trends: Uncover patterns and growth opportunities in transaction data.
 •	Identify Risks: Spot potential red flags in rising debt, transaction errors, and fraudulent activity.
 •	Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.
-
+___
 
 ### PROJECT_PLAN 
 1. Customer Profiling & Segmentation
