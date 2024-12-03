@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Project_Brief](###PROJECT_BRIEF)
+- [Project_Brief](###Project_brief)
 - [Objectives](#OBJECTIVES)
 - [Project_Plan](#PROJECT_PLAN)
 ___
@@ -9,7 +9,7 @@ ___
 This is a data challenge organized by ZoomCharts. As a data analyst at one of the most dynamic financial institutions, I am tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on me to solve pressing challenges and deliver actionable insights.
 ___
 
-# PROJECT_BRIEF
+### Project_brief
 Welcome to the Aurora Bank Data Challenge! As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.
 ___
 # OBJECTIVES
