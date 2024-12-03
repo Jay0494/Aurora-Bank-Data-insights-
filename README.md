@@ -13,10 +13,23 @@ ___
 Welcome to the Aurora Bank Data Challenge! As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.
 ___
 # OBJECTIVES
-•	Understand Customer Profiles: Explore customer demographics, financial health, and behaviours to unlock new opportunities for engagement.
-•	Analyse Spending Trends: Uncover patterns and growth opportunities in transaction data.
-•	Identify Risks: Spot potential red flags in rising debt, transaction errors, and fraudulent activity.
-•	Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.
+1.	Understand Customer Profiles: 
+- Explore customer demographics 
+- financial health
+- behaviours to unlock new opportunities for engagement.
+
+  
+2. Analyse Spending Trends:
+- Uncover patterns and growth opportunities in transaction data.
+
+  
+3. Identify Risks:
+- Spot potential red flags in rising debt
+- transaction errors
+- fraudulent activity.
+
+  
+3. Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.
 ___
 
 # PROJECT_PLAN 
